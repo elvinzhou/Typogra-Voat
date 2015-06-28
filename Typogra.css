@@ -303,7 +303,7 @@ body.dark {
 -------------------------------------------------------------------------------- */
 #header {
     background: url( http://images2.alphacoders.com/479/479989.jpg ) 50% 50%;
-    height: 200px;
+    height: 400px;
     margin: 0;
 }
     #header-container { box-shadow: 0 1px 4px hsla( 0,0%,0%,0.5 ); }
@@ -326,7 +326,7 @@ body.dark {
             #sr-header-area:hover #sr-bar li a { color: #D5D5D5; }
 
         #header-img {
-            background: url( http://i.imgur.com/Esbpi0u.png );
+            background: url( http://wiki.gcdn.co/images/d/d7/GameLogo_World_of_Warships.png );
             padding-left: 112px;
         }
 
